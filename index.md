@@ -1,4 +1,4 @@
-#Scores
+# Scores
 
 * [Flower](Flower.pdf)
 * [KelseysWee](KelseysWee.pdf)
