@@ -1,5 +1,6 @@
 # Scores
 
+* [Ave Maris Stella Arti](Ave Maris Stella Arti.pdf)
 * [Flower](Flower.pdf)
 * [KelseysWee](KelseysWee.pdf)
 * [OrnFlower](OrnFlower.pdf)
